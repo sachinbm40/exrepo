@@ -1,6 +1,7 @@
  #!bin/bash
- #dve2 changes master
- num="10 20 30 50 60"
+  #dve2 changes master
+   num="10 20 30 50 60"
+ #test by Pavithra
  for i in $
 do
 	ele=$i 
