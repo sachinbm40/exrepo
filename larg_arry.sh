@@ -2,6 +2,8 @@
  #dve2 changes master
  num="10 20 30 50 60"
  for i in $var 
+ # Test sachin for i in $
+
 do
 	ele=$i 
 	if [$i -gt $ele]  
