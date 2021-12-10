@@ -1,6 +1,7 @@
  #!bin/bash
+ #test dev1
  num="10 20 30 50 60"
- for i in $num
+ for i in $
 do
 	ele=$i 
 	if [$i -gt $ele]  
